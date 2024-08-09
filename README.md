@@ -1,7 +1,5 @@
 <h1 align="center" id="title">ImageTool</h1>
 
-<p align="center"><img src="https://socialify.git.ci/rudymohammadbali/ImageTool/image?font=Inter&amp;forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;pulls=1&amp;stargazers=1&amp;theme=Auto" alt="project-image"></p>
-
 <p id="description">ImageTool is a collection of functionalities to manipulate images. Built using the Pillow library.</p>
   
 <h2>Features</h2>
@@ -27,6 +25,12 @@
 * Get Image Info: Obtain detailed information about images.
 * Merge Images: Combine images horizontally or vertically.
 * Create Solid Color Image: Generate images with solid colors.
+
+<h2 align="left">Requirements</h2>
+
+```
+pip install pillow==10.4.0 rembg==2.0.58
+```
 
 <p>Check out example.py file for usage of each function.</p>
 
